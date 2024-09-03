@@ -18,7 +18,7 @@ import math
 TOKEN = "7113724596:AAE4yYczuklB_raJ2pi4vObn7BzCUpO9YwE"
 bot = telebot.TeleBot(TOKEN)
 print('-'*50)
-print("SAZOM v1.4")
+print("SAZOM v1.5")
 print('-')
 #-----------------------------------------------------------folders
 bot.set_my_commands([BotCommand("start","لإعادة تشغيل البوت")])
