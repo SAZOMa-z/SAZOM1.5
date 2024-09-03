@@ -15,7 +15,7 @@ import moviepy.editor
 import telebot
 import os
 import math
-TOKEN = "6771737701:AAEuu_5k0dNg2XbtVktBrJBvtZSHCZpdjnQ"
+TOKEN = "7113724596:AAE4yYczuklB_raJ2pi4vObn7BzCUpO9YwE"
 bot = telebot.TeleBot(TOKEN)
 print('-'*50)
 print("SAZOM v1.4")
